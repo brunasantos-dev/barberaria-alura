@@ -6,7 +6,7 @@
 
 Projeto construído a partir do curso de HTML5 e CSS3 da Alura, instruída pelo professor: Pedro Marins.
 
-🔗[Clique aqui para acessar]()
+🔗[Clique aqui para acessar](https://brunasantos-dev.github.io/barberaria-alura/)
 
 ## Tecnologias
 
